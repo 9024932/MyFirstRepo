@@ -1,1 +1,1 @@
-feature 
+"Dit is een nieuwe feature" 
